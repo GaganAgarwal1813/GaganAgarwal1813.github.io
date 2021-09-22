@@ -92,6 +92,14 @@ body {
     border: 3px solid white;
     box-shadow: 1px 1px 10px 2px lightgrey;
 }
+#clock {
+    font-size: 15px;
+    width: 15%;
+    margin: 10px;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 5px;
+  }
 
 #about {
     color: grey;
