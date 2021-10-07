@@ -177,6 +177,20 @@ body {
     margin-top: 100px;
 }
 
+.portfolio-hovering a {
+    opacity: 0;
+}
+
+
+.portfolio-hovering a:hover {
+    opacity: 0.8;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
 .portfolio-hovering:hover {
     color: white;
     background-color: black;
@@ -187,6 +201,7 @@ body {
     opacity: 0.8;
     height: 300px;
 }
+
 
 #Contact {
     background: linear-gradient(120deg, #2857a4, #403066);
